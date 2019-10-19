@@ -1,0 +1,15 @@
+實驗為偵測ERP
+每一秒會有一次逼聲
+其中有參雜較高頻率的peak
+test1: 去數有幾個peak (35個)
+test2: 專注在呼吸不要理peak
+
+preprocessing:
+low cut 0.5
+high cut 40 (EMG)
+notch 60 (power line)
+EDF+、Band power
+
+特別針對：Cz、Fz、Pz
+
+ERP主要看電壓變化，全部標註的訊號average一起

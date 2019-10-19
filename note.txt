@@ -1,0 +1,4 @@
+eye-closed
+test-1, counting target tone
+test-2, counting breath
+test-3, counting nothing, relax and sleep
